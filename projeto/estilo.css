@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    background-image: url(img/background.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+header{
+    filter: opacity(60%);
+    background: black;
+    font-weight: bold;
+}
+
+.pokemon{
+    margin-top: 3vh;
+    margin-left: 34%;
+    margin-right: 34%;
+}
+
+.divisoria{
+    background: black;
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+    color: white;
+}
+
+#charmander{
+    height: 30vh;
+    width: 30vh;
+    margin-top: 5vh;
+    margin-left: 11vh;
+}
+
+#bulbasaur{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#squirtle{
+    height: 200px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+#botao1{
+    color: white;
+    border-color: #FF8C00;
+    font-weight: bold;
+    background-color: rgb(255, 161, 45);
+    margin-left: 95px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+#botao2{
+    color: white;
+    border-color: #228B22;
+    font-weight: bold;
+    background-color: #228B22;
+    margin-left: 280px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+#botao3{
+    color: white;
+    border-color:#4169E1;
+    font-weight: bold;
+    background-color:#4169E1;
+    margin-left: 290px;
+    margin-top: 10px;
+    border-radius: 7px;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: black;
+    height: 198px;
+    filter: opacity(60%);
+}
+
+
+
+
+
+
+
